@@ -1,0 +1,1 @@
+﻿{ "name": "ai-smart-cv-matcher", "private": true, "workspaces": ["backend", "frontend"] }
